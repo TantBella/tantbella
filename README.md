@@ -1,4 +1,4 @@
-# Hello World!  ![](https://komarev.com/ghpvc/?username=TantBella&style=for-the-badge&label=Visitors&color=E3D7B8)
+# Hello World!  
 ## Creative software dev fueled by tea, curiosity and sometimes a playlist with of nostalgic music from the 90's and 00’s  
 ![coding gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW1udXZiMmFsNmIyZXdwbGludXh5aDl5d29hcmNodG40OXc4b2FpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif)
 ---
@@ -9,6 +9,8 @@
 ![DevOps](https://img.shields.io/badge/DevOps-007ACC?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-00599C?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TantBella)](https://github.com/TantBella/github-readme-stats)
 
 ---
 
@@ -30,7 +32,5 @@ When I’m not coding, I’m probably re-potting plants, Pair programming with m
 ---
 
 ## Thanks for stopping by!
-Check out my pinned projects below to see what I’ve been up to lately.
-![GitHub last commit](https://img.shields.io/github/last-commit/TantBella/repo-namn?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/TantBella/repo-namn?style=for-the-badge)
-
+Check out my pinned projects below to see what I’ve been up to lately.  
+ ![](https://komarev.com/ghpvc/?username=TantBella&style=for-the-badge&label=Visitors&color=E3D7B8)
