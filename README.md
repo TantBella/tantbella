@@ -3,13 +3,6 @@
 ![coding gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW1udXZiMmFsNmIyZXdwbGludXh5aDl5d29hcmNodG40OXc4b2FpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif)
 ---
 
-### Techstack:  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)  
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)  
-![DevOps](https://img.shields.io/badge/DevOps-007ACC?style=for-the-badge&logo=azuredevops&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-00599C?style=for-the-badge&logo=mongodb&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TantBella)](https://github.com/TantBella/github-readme-stats)
 
 ---
@@ -20,6 +13,7 @@ Right now, I’m diving deep into DevOps and exploring how to automate, streamli
 
 When I’m not coding, I’m probably re-potting plants, Pair programming with my kids (because why not start them early?) or coming up with weird app ideas.
 
+![monsteraplant](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHh5bnVkdnduZjlpcWZkeG1wN3lxeGhrcWJucnZ1YTF0aHpqNTh5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OpiQeOdo3CmHsa4QXn/giphy.gif)
 ---
 
 ### Let’s connect if you:
