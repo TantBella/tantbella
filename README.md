@@ -26,6 +26,6 @@ When I’m not coding, I’m probably re-potting plants, Pair programming with m
 
 ## Thanks for stopping by!
 Check out my pinned projects below to see what I’ve been up to lately.  
-
-
- ![](https://komarev.com/ghpvc/?username=TantBella&style=for-the-badge&label=Visitors&color=E3D7B8)
+  
+  
+ ![](https://komarev.com/ghpvc/?username=TantBella&style=for-the-badge&label=You-Are-Visitor-Number:&color=E3D7B8)
