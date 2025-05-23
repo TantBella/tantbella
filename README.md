@@ -1,4 +1,4 @@
-# Hello World!
+# Hello World!  ![](https://komarev.com/ghpvc/?username=TantBella&style=for-the-badge&label=Visitors&color=E3D7B8)
 ## Creative software dev fueled by tea, curiosity and sometimes a playlist with of nostalgic music from the 90's and 00’s
 
 ### Techstack:  
@@ -26,5 +26,4 @@ When I’m not coding, I’m probably re-potting plants, Pair programming with m
 ## Thanks for stopping by!
 Check out my pinned projects below or scroll through the commits to see what I’ve been up to lately.
 
-![Visitor Count](https://profile-counter.glitch.me/TantBella/count.svg)
 ![](https://komarev.com/ghpvc/?username=TantBella&style=for-the-badge&label=Visitors&color=E3D7B8)
