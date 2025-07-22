@@ -1,5 +1,5 @@
 # **`Hello World!`**  
-## Creative software dev fueled by tea, curiosity and sometimes a playlist with of nostalgic music from the 90's and 00’s...  
+## Creative software dev fueled by tea, curiosity and sometimes a playlist with nostalgic music from the 90's and 00’s...  
 ![me coding](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW1udXZiMmFsNmIyZXdwbGludXh5aDl5d29hcmNodG40OXc4b2FpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif)
 
 ---
