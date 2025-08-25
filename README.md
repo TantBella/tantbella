@@ -36,7 +36,7 @@ When I’m not coding, I’m probably re-potting plants, pair programming with m
 
 <div align="center">
   
-  [![LinkedIn Badge](https://img.shields.io/badge/-Tant Bellas LinkedIn-2E8B57?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bella-sf/)
+  [![LinkedIn Badge](https://img.shields.io/badge/-Tant_Bellas_LinkedIn-2E8B57?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bella-sf/)
 
   [![Visitor Badge](https://komarev.com/ghpvc/?username=TantBella&style=for-the-badge&label=You_Are_Visitor_Number:&color=2E8B57)](https://github.com/TantBella)
   
