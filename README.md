@@ -21,6 +21,11 @@ When I’m not coding, I’m probably re-potting plants, pair programming with m
 ![me coding](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTc4MHd6dWM2bHYyd2o3eWp3YzVkdG4ybnF6NXd5bzNhd2NmbmZ3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/maNB0qAiRVAty/giphy.gif)
 
 ---
+## 𝗦𝘁𝗮𝘁𝘀
+
+![Tantbellas github stats](https://github-readme-stats.vercel.app/api?username=TantBella&show_icons=true&theme=dracula)
+
+---
 
 ### Let’s connect if you:
 - Like tea (or coffee, I won’t judge)
@@ -28,7 +33,7 @@ When I’m not coding, I’m probably re-potting plants, pair programming with m
 - Enjoy discussing which sitcom is the GOAT (it's obviously The Office) or why there aren’t more seasons of Ghosts? Or maybe dissect the latest chaos on RHOBH or MAFS? (Yes, please.)  
 - Believe that great work happens where empathy, curiosity and sarcasm meet
 - 
-[![Linkedin Badge](https://img.shields.io/badge/-Bella_SF-purple?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bella-sf/)
+[![Linkedin Badge](https://img.shields.io/badge/-Bella_SF-green?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bella-sf/)
 
 ---
 
