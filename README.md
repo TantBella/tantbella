@@ -1,7 +1,4 @@
-<font color="lime">
-<h1>Hello World!</h1>
-</font>
-
+![Hello World!](https://dummyimage.com/600x100/000/00ff00&text=Hello+World!)
 
 
 ## Creative software dev fueled by tea, curiosity and sometimes a playlist with nostalgic music from the 90's and 00’s...  
