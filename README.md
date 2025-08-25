@@ -9,7 +9,7 @@ Most days you'll find me deep in code. I like JS, .NET and I'm exploring Cloud T
 
 <div align="center">
   <img src="https://img.icons8.com/windows/32/000000/dev.png" alt="dev" />
-  <img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png" alt="love" />
+
 </div>
 
 When I’m not coding, I’m probably re-potting plants, pair programming with my kids (because why not start them early?) or coming up with weird app ideas.
@@ -30,7 +30,7 @@ When I’m not coding, I’m probably re-potting plants, pair programming with m
 
 ---
 
-## Thanks for stopping by!
+## Thanks for stopping by! ![love](https://img.icons8.com/pastel-glyph/32/000000/like--v1.png)
 Check out my pinned projects below to see what I’ve been up to lately.  
   
   
