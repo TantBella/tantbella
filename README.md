@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=100&lines=Hello+World!)](https://git.io/typing-svg)
 
-## Creative Software Dev | Tea Lover | Curious Explorer
-Fuelled by curiosity, code, and nostalgic playlists from the 90's & 00’s...
+## Creative software dev 
+Fuelled by curiosity, tea, andsometimes a nostalgic playlist from the 90's & 00’s...
+
 ---
 
 ### About Me
@@ -10,8 +11,6 @@ When I’m not coding, I’m probably re-potting plants, pair programming with m
 
 <div align="center">
   <img src="https://img.icons8.com/windows/32/00FF00/dev.png" alt="dev" />
-  <img src="https://img.icons8.com/color/32/00FF00/javascript.png" alt="js" />
-  <img src="https://img.icons8.com/color/32/00FF00/dot-net.png" alt=".NET" />
   <img src="https://img.icons8.com/pastel-glyph/32/00FF00/like--v1.png" alt="love" />
 </div>
 
@@ -19,15 +18,21 @@ When I’m not coding, I’m probably re-potting plants, pair programming with m
 
 ### GitHub Stats
 <div align="center">
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TantBella&layout=compact&theme=react)](https://github.com/TantBella/github-readme-stats)
-  <br/>
+  
+
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TantBella&show_icons=true&theme=react)
-  <br/>
+
+
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TantBella&theme=react)
+  
 </div>
 
 <div align="center">
+  
   ![Coding GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTc4MHd6dWM2bHYyd2o3eWp3YzVkdG4ybnF6NXd5bzNhd2NmbmZ3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/maNB0qAiRVAty/giphy.gif)
+  
 </div>
 
 ---
