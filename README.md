@@ -1,6 +1,7 @@
-<h1 style="color:#00FF00; font-family:monospace;">
-  Hello World!
-</h1>
+<font color="lime">
+<h1>Hello World!</h1>
+</font>
+
 
 
 ## Creative software dev fueled by tea, curiosity and sometimes a playlist with nostalgic music from the 90's and 00’s...  
