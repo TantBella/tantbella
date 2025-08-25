@@ -41,4 +41,4 @@ When I’m not coding, I’m probably re-potting plants, pair programming with m
 ![love](https://img.icons8.com/pastel-glyph/32/000000/like--v1.png) Check out my pinned projects below to see what I’ve been up to lately.  
   
   
- ![](https://komarev.com/ghpvc/?username=TantBella&style=for-the-badge&label=You_Are_Visitor_Number:&color=2F442F)
+ ![](https://komarev.com/ghpvc/?username=TantBella&style=for-the-badge&label=You_Are_Visitor_Number:&color=green)
