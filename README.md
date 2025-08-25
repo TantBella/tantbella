@@ -1,4 +1,4 @@
- $\color{rgba(255,0,0, 0.4)}{\texttt{**`Hello World!`** }}$
+ \color{rgba(255,0,0, 0.4)}{\texttt{**`Hello World!`** }}
 ## Creative software dev fueled by tea, curiosity and sometimes a playlist with nostalgic music from the 90's and 00’s...  
 ---
 
