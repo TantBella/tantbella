@@ -3,15 +3,15 @@
 
 ## Creative software dev fueled by tea, curiosity and sometimes a playlist with nostalgic music from the 90's and 00’s...  
 ---
-<div align="center">
+
 ### About me:  
 Most days you'll find me deep in code. I like JS, .NET and I'm exploring Cloud Tech.
-
+<div align="center">
 ![dev](https://img.icons8.com/windows/32/000000/dev.png)
 ![love](https://img.icons8.com/pastel-glyph/32/000000/like--v1.png) 
-
-When I’m not coding, I’m probably re-potting plants, pair programming with my kids (because why not start them early?) or coming up with weird app ideas.
 </div>
+When I’m not coding, I’m probably re-potting plants, pair programming with my kids (because why not start them early?) or coming up with weird app ideas.
+
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TantBella)](https://github.com/TantBella/github-readme-stats)
