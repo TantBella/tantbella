@@ -5,9 +5,9 @@
 ---
 
 ### About me:  
-Most days you'll find me deep in code, whether it’s in JavaScript, .NET or whatever new technology I’m currently obsessed with. My favorite types of projects are the ones where I get to combine logic, design and a bit of personality.  
-Right now, I’m diving deep into DevOps and exploring how to automate, streamline and optimize the software lifecycle, turning ideas into smooth-running realities.  
-
+Most days you'll find me deep in code. I like JS, .NET and I'm exploring Cloud Tech.
+[![Top Langs](https://img.icons8.com/windows/32/000000/dev.png")
+[![Top Langs](https://img.icons8.com/pastel-glyph/32/000000/like--v1.png)
 When I’m not coding, I’m probably re-potting plants, pair programming with my kids (because why not start them early?) or coming up with weird app ideas.
 
 ---
