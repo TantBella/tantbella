@@ -1,5 +1,4 @@
-![Hello World!](https://dummyimage.com/600x100/000/00ff00&text=Hello+World!)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=100&lines=Hello+World!)](https://git.io/typing-svg)
 
 ## Creative software dev fueled by tea, curiosity and sometimes a playlist with nostalgic music from the 90's and 00’s...  
 ---
