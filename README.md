@@ -28,7 +28,8 @@ When I’m not coding, I’m probably re-potting plants, pair programming with m
 - Enjoy discussing which sitcom is the GOAT (it's obviously The Office) or why there aren’t more seasons of Ghosts? Or maybe dissect the latest chaos on RHOBH or MAFS? (Yes, please.)  
 - Believe that great work happens where empathy, curiosity and sarcasm meet
 - 
-[![Linkedin Badge](https://img.shields.io/badge/-Bella_SF-purple?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bella-sf/)(https://www.linkedin.com/in/bella-sf/)
+[![Linkedin Badge](https://img.shields.io/badge/-Bella_SF-purple?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bella-sf/)
+
 ---
 
 ## Thanks for stopping by! 
