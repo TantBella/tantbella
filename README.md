@@ -1,16 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=2E8B57&center=true&vCenter=true&width=800&height=100&lines=Hello+World!)](https://git.io/typing-svg)
 
-### Creative software dev - Fuelled by curiosity, tea, andsometimes a nostalgic playlist from the 90's & 00’s...
+### Creative software dev - Fuelled by curiosity, tea and sometimes a nostalgic playlist from the 90's & 00’s...<div align="center">
+  <img src="https://img.icons8.com/windows/32/2E8B57/dev.png" alt="dev" />
+  <img src="https://img.icons8.com/pastel-glyph/32/2E8B57/like--v1.png" alt="love" />
+</div>
 
 ---
 
 #### About me
 Most days you'll find me deep in code. I like **JS**, **.NET** and I'm currently exploring **Cloud Tech**.  
-
-<div align="center">
-  <img src="https://img.icons8.com/windows/32/2E8B57/dev.png" alt="dev" />
-  <img src="https://img.icons8.com/pastel-glyph/32/2E8B57/like--v1.png" alt="love" />
-</div>
 
 When I’m not coding, I’m probably re-potting plants, pair programming with my kids (because why not start them early?) or coming up with weird app ideas.
 
