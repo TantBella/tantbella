@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=2E8B57&center=true&vCenter=true&width=800&height=100&lines=Hello+World!)](https://git.io/typing-svg)
 
-### Creative software dev - Fuelled by curiosity, tea and sometimes a nostalgic playlist from the 90's & 00’s...<div align="center">
+### Creative software dev - Fuelled by curiosity, tea and sometimes a nostalgic playlist from the 90's & 00’s...
+<div align="center">
   <img src="https://img.icons8.com/windows/32/2E8B57/dev.png" alt="dev" />
   <img src="https://img.icons8.com/pastel-glyph/32/2E8B57/like--v1.png" alt="love" />
 </div>
