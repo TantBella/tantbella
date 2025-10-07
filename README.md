@@ -35,6 +35,7 @@ When I’m not coding, I’m probably re-potting plants, pair programming with m
 
   [![Visitor Badge](https://komarev.com/ghpvc/?username=TantBella&style=for-the-badge&label=You_Are_Visitor_Number:&color=2E8B57)](https://github.com/TantBella)
   
+[![Buymeacoffee badge](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjdzaHo4ajB3OGE5bG82eHI4aXVxODZsNmhjYXZqZWUxNTNoNm5sMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hXMGQqJFlIQMOjpsKC/giphy.gif)](https://buymeacoffee.com/tantbella)
 </div>
 
 
