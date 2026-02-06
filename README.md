@@ -19,7 +19,6 @@ When I’m not coding, I’m probably re-potting plants, pair programming with m
 
 
   ![GitHub Stats]((https://github-readme-stats.vercel.app/api?username=tantbella&show_icons=true&theme=transparent)
-o)
   
 </div>
 
