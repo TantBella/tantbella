@@ -18,7 +18,8 @@ When I’m not coding, I’m probably re-potting plants, pair programming with m
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TantBella&layout=compact&theme=react)](https://github.com/TantBella/github-readme-stats)
 
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TantBella&show_icons=true&theme=merko)
+  ![GitHub Stats]((https://github-readme-stats.vercel.app/api?username=tantbella&show_icons=true&theme=transparent)
+o)
   
 </div>
 
