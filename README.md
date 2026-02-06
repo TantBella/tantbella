@@ -1,6 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=2E8B57&center=true&vCenter=true&width=800&height=100&lines=Hello+World!)](https://git.io/typing-svg)
+<div algin="left">
+  
   [![Visitor Badge](https://komarev.com/ghpvc/?username=TantBella&style=for-the-badge&label=You_Are_Visitor_Number:&color=2E8B57)](https://github.com/TantBella)
+  
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/tantbella?cardType=level&theme=vue-dark&fontFamily=Kumbh%20Sans&preferLogin=false)](https://git.io/awesome-stats-card)
 
+</div>
 ### I'm a creative software dev fuelled by curiosity, tea and sometimes a nostalgic playlist from the 90's & 00’s...
 
 Most days you'll find me deep in code. I like **JS**, **.NET** and I'm currently exploring **Cloud Tech**.  
@@ -15,11 +20,12 @@ When I’m not coding, I’m probably re-potting plants, pair programming with m
 - Enjoy discussing which sitcom is the GOAT (it's obviously The Office) or why there aren’t more seasons of Ghosts? Or maybe dissect the latest chaos on RHOBH or MAFS? (Yes, please.)  
 - Believe that great work happens where empathy, curiosity and sarcasm meet
 
-<div align="center">
+<div>
   
-  [![LinkedIn Badge](https://img.shields.io/badge/-Tant_Bellas_LinkedIn-2E8B57?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bella-sf/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Tant_Bellas_LinkedIn-2E8B57?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bella-sf/)
   
-[![Buymeacoffee badge](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjdzaHo4ajB3OGE5bG82eHI4aXVxODZsNmhjYXZqZWUxNTNoNm5sMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hXMGQqJFlIQMOjpsKC/giphy.gif)](https://buymeacoffee.com/tantbella)
+[![Buymeacoffee badge](https://media.giphy.com/media/kmIZ4lx2ZHpr5jY0W4/giphy.gif)](https://buymeacoffee.com/tantbella)
+
 </div>
 
 
