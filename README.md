@@ -3,24 +3,9 @@
 
 ### I'm a creative software dev fuelled by curiosity, tea and sometimes a nostalgic playlist from the 90's & 00’s...
 
----
-
-#### About me
 Most days you'll find me deep in code. I like **JS**, **.NET** and I'm currently exploring **Cloud Tech**.  
 
 When I’m not coding, I’m probably re-potting plants, pair programming with my kids (because why not start them early?) or coming up with weird app ideas.
-
----
-
-#### My GitHub stats
-<div align="center">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TantBella&layout=compact&theme=react)](https://github.com/TantBella/github-readme-stats)
-
-
-  ![GitHub Stats]((https://github-readme-stats.vercel.app/api?username=tantbella&show_icons=true&theme=transparent)
-  
-</div>
 
 ---
 
@@ -38,7 +23,22 @@ When I’m not coding, I’m probably re-potting plants, pair programming with m
 </div>
 
 
-<!-- ![Coding GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTc4MHd6dWM2bHYyd2o3eWp3YzVkdG4ybnF6NXd5bzNhd2NmbmZ3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/maNB0qAiRVAty/giphy.gif)  <div align="center">
+<!-- 
+
+---
+
+#### My GitHub stats
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TantBella&layout=compact&theme=react)](https://github.com/TantBella/github-readme-stats)
+
+
+  ![GitHub Stats]((https://github-readme-stats.vercel.app/api?username=tantbella&show_icons=true&theme=transparent)
+  
+</div>
+
+
+![Coding GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTc4MHd6dWM2bHYyd2o3eWp3YzVkdG4ybnF6NXd5bzNhd2NmbmZ3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/maNB0qAiRVAty/giphy.gif)  <div align="center">
   <img src="https://img.icons8.com/windows/32/2E8B57/dev.png" alt="dev" />
   <img src="https://img.icons8.com/pastel-glyph/32/2E8B57/like--v1.png" alt="love" />
 </div> 
