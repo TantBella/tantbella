@@ -6,7 +6,7 @@
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/tantbella?cardType=level&theme=vue-dark&fontFamily=Kumbh%20Sans&preferLogin=false)](https://git.io/awesome-stats-card)
 
 </div>
-### I'm a creative software dev fuelled by curiosity, tea and sometimes a nostalgic playlist from the 90's & 00’s...
+ I'm a creative software dev fuelled by curiosity, tea and sometimes a nostalgic playlist from the 90's & 00’s...
 
 Most days you'll find me deep in code. I like **JS**, **.NET** and I'm currently exploring **Cloud Tech**.  
 
